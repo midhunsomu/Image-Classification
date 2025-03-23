@@ -89,7 +89,7 @@ def train_model(model, train_loader, num_epochs=3):
         print('Register Number: 212223240087')
         print(f'Epoch [{epoch+1}/{num_epochs}], Loss: {running_loss/len(train_loader):.4f}')
 ```
-<br><br>
+<br><br><br><br>
 ## OUTPUT
 
 ### Training Loss per Epoch
